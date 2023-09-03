@@ -1,0 +1,31 @@
+{
+
+    
+        "AboutApp": "About Dailypulse App",
+        "aboutpara1": "Welcome to Daily Pulse, a premier digital platform that harnesses the power of cutting-edge technology to deliver real-time, global news. Established in 2023, we leverage APIs to collate and curate news from a myriad of reliable sources across the globe. Our aim is to provide you with a comprehensive, balanced, and diverse perspective on world events, right at your fingertips. Through intelligent algorithms, we filter through the noise to offer you the most significant stories spanning numerous topics, including politics, science, technology, business, and culture. Our team of data scientists and experienced editors work tirelessly to ensure the accuracy and timeliness of the information we provide.",
+        
+        "aboutpara2":"Daily Pulse is your one-stop solution for instant access to the pulse of the world, helping you stay informed, connected, and empowered in an ever-evolving global landscape.",
+        "AboutUs": "About Us",
+        "account": "Already have an account? Login!",
+        "City": "City",
+        "Email": "Email",
+        "FirstName": "First Name",
+        "LastName": "Last Name",
+        "noaccount": "Don't have an account? Signup!",
+        "OurTeam": "Our Team",
+        "pass": "Password",
+        "pass_c": "Confirm Password",
+        "signin": "sign in ",
+        "signup": "sign up",
+        "username": "user name",
+        "RegisterAccount" : "Register Account",
+        "CreateAccount" : "Create Account",
+        "alert_pass":"Your password must contain : Capital letter, Small letter, Number and +8 character !!! or your Confirm password is diffrent !!!",
+        "youraccount": "Signin to your account!",
+        "Logout" : "LogOut",
+        "Login" : "Login",
+        "profile":"Profile",
+        "read" : "Reading List",
+        "mynews":"My News"
+    
+}
